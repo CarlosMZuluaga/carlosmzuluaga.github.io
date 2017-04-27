@@ -1,11 +1,6 @@
--
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-	  title: About Me
+---
+layout: single
+author_profile: true
+title: About Me
+permalink: /aboutme/
 ---
