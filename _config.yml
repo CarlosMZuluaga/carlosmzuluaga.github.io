@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos M. Zuluaga"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Carlos500x500.jpg"
   bio              : "Ph.D. Student in Civil Engineering at North Carolina State University."
   location         : "Raleigh, NC"
   email            : 
