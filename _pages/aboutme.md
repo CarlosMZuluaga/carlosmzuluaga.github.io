@@ -6,19 +6,13 @@ permalink: /aboutme/
 ---
 
 ## Education
-
 - <strong>Ph.D. in Civil Engineering</strong> – North Carolina State University – Expected graduation Fall 2018
 - <strong>Master of Civil Engineering</strong> – North Carolina State University. Raleigh, NC – 2016
 - <strong>B.S. in Civil Engineering</strong> – EAFIT University. Medellín, Colombia – 2011
 
-<hr />
-
 ## Research Experience
 <strong>Compatibility Testing of Supplemental Fall Protection Devices on NCDOT Bridges</strong>
 <p style="padding-left: 30px;">The objective of this study is to determine the compatibility between Fall Protection Supplementary Devices (FPSD) and the numerous bridge guardrail designs accross the state of North Carolina with the end goal of improving work efficiency, reducing loss of productivity, decreasing operational cost, and improving safety performance.</p>
-
-
-<hr />
 
 ## Industry Experience
 <strong>Tri-State Design Construction Co., Inc. - </strong><strong>December 2011 to December 2014</strong>
@@ -28,9 +22,6 @@ permalink: /aboutme/
 <p style="padding-left: 30px;"><em><u>Field Engineer,</u></em><u> <em>Design/Build Replace Primary Electric Cables. Brooklyn, NY:</em></u> Installation of 11,000’ of concrete encased ductbank, pulling 200,000’ of 4/0 XLP copper cable and installation of numerous electrical terminations. Client: National Park Service.</p>
 <p style="padding-left: 30px;"><em><u>Office Engineer, Seawall Repairs. Philadelphia Navy Shipyard, PA:</u></em> 600’ of concrete repairs and 800’ of stone masonry repairs to the existing seawall. Installation of 2500’ of vinyl sheet piles. Client: U.S. Army Corps of Engineers, Philadelphia District.</p>
 
-
-<hr />
-
 ## Certifications and Affiliations
 <ul>
  	<li><strong>American Society of Civil Engineers (ASCE):</strong> Student member.</li>
@@ -39,8 +30,6 @@ permalink: /aboutme/
  	<li>CPR and First Aid.</li>
  	<li>Confined Space Competent Person.</li>
 </ul>
-
-<hr />
 
 ## Skills
 <table class=" alignleft" style="height: 220px;" width="550">
