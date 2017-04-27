@@ -1,11 +1,11 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 title: About Me
 permalink: /aboutme/
 ---
 
-<h2>Education</h2>
+<h3>Education</h3>
 <ul>
  	<li>Ph.D. student in Civil Engineering at North Carolina State University.</li>
  	<li>Master of Civil Engineering. North Carolina State University. Raleigh, NC. 2016.</li>
@@ -14,14 +14,14 @@ permalink: /aboutme/
 
 <hr />
 
-<h2>Research Experience</h2>
+<h3>Research Experience</h3>
 <strong>Compatibility Testing of Supplemental Fall Protection Devices on NCDOT Bridges</strong>
 <p style="padding-left: 30px;">The objective of this study is to determine the compatibility between Fall Protection Supplementary Devices (FPSD) and the numerous bridge guardrail designs accross the state of North Carolina with the end goal of improving work efficiency, reducing loss of productivity, decreasing operational cost, and improving safety performance.</p>
 
 
 <hr />
 
-<h2>Industry Experience</h2>
+<h3>Industry Experience</h3>
 <strong>Tri-State Design Construction Co., Inc. - </strong><strong>December 2011 to December 2014</strong>
 <p style="padding-left: 30px;"><em><u>Project Engineer, Upgrade Medical Waste Incinerators. Frederick, MD</u>:</em> Design/Build project for the Installation of 2 Emission Control Units to the existing medical waste incinerators. Client: U.S. Army Corps of Engineers, Baltimore District.</p>
 <p style="padding-left: 30px;"><em><u>Junior Estimator, Houston Residence. Sag Harbor, NY</u>:</em> 5,000 SF luxury residential construction project.</p>
@@ -32,7 +32,7 @@ permalink: /aboutme/
 
 <hr />
 
-<h2 style="text-align: left;">Certifications and Affiliations</h2>
+<h3 style="text-align: left;">Certifications and Affiliations</h3>
 <ul>
  	<li><strong>American Society of Civil Engineers (ASCE):</strong> Student member.</li>
  	<li><strong>Associated General Contractors (AGC):</strong> Student chapter member.</li>
@@ -43,7 +43,7 @@ permalink: /aboutme/
 
 <hr />
 
-<h2>Skills</h2>
+<h3>Skills</h3>
 <table class=" alignleft" style="height: 220px;" width="550">
 <tbody>
 <tr>
