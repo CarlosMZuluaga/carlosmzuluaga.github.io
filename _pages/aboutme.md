@@ -5,12 +5,11 @@ title: About Me
 permalink: /aboutme/
 ---
 
-<h3>Education</h3>
-<ul>
- 	<li>Ph.D. student in Civil Engineering at North Carolina State University.</li>
- 	<li>Master of Civil Engineering. North Carolina State University. Raleigh, NC. 2016.</li>
- 	<li>Bachelor's degree in Civil Engineering from EAFIT University. Medellín, Colombia. 2011.</li>
-</ul>
+### Education
+
+- <strong>Ph.D. in Civil Engineering</strong> – North Carolina State University – Expected graduation Fall 2018
+- <strong>Master of Civil Engineering</strong> – North Carolina State University. Raleigh, NC – 2016
+- <strong>B.S. in Civil Engineering</strong> – EAFIT University. Medellín, Colombia – 2011
 
 <hr />
 
