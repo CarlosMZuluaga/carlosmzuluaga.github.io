@@ -1,3 +1,11 @@
----
-title: About Me
+-
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+	  title: About Me
 ---
