@@ -5,7 +5,7 @@ title: About Me
 permalink: /aboutme/
 ---
 
-### Education
+## Education
 
 - <strong>Ph.D. in Civil Engineering</strong> – North Carolina State University – Expected graduation Fall 2018
 - <strong>Master of Civil Engineering</strong> – North Carolina State University. Raleigh, NC – 2016
@@ -13,14 +13,14 @@ permalink: /aboutme/
 
 <hr />
 
-<h3>Research Experience</h3>
+## Research Experience
 <strong>Compatibility Testing of Supplemental Fall Protection Devices on NCDOT Bridges</strong>
 <p style="padding-left: 30px;">The objective of this study is to determine the compatibility between Fall Protection Supplementary Devices (FPSD) and the numerous bridge guardrail designs accross the state of North Carolina with the end goal of improving work efficiency, reducing loss of productivity, decreasing operational cost, and improving safety performance.</p>
 
 
 <hr />
 
-<h3>Industry Experience</h3>
+## Industry Experience
 <strong>Tri-State Design Construction Co., Inc. - </strong><strong>December 2011 to December 2014</strong>
 <p style="padding-left: 30px;"><em><u>Project Engineer, Upgrade Medical Waste Incinerators. Frederick, MD</u>:</em> Design/Build project for the Installation of 2 Emission Control Units to the existing medical waste incinerators. Client: U.S. Army Corps of Engineers, Baltimore District.</p>
 <p style="padding-left: 30px;"><em><u>Junior Estimator, Houston Residence. Sag Harbor, NY</u>:</em> 5,000 SF luxury residential construction project.</p>
@@ -31,7 +31,7 @@ permalink: /aboutme/
 
 <hr />
 
-<h3 style="text-align: left;">Certifications and Affiliations</h3>
+## Certifications and Affiliations
 <ul>
  	<li><strong>American Society of Civil Engineers (ASCE):</strong> Student member.</li>
  	<li><strong>Associated General Contractors (AGC):</strong> Student chapter member.</li>
@@ -42,7 +42,7 @@ permalink: /aboutme/
 
 <hr />
 
-<h3>Skills</h3>
+## Skills
 <table class=" alignleft" style="height: 220px;" width="550">
 <tbody>
 <tr>
