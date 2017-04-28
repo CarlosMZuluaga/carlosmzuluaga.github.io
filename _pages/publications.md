@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 ## Scientific Journal Articles 
 
-- [Improving Hazard-Recognition Performance and Safety Training Outcomes: Integrating Strategies for Training Transfer.](http://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001160) Mostafa Namian, S.M.ASCE; Alex Albert, A.M.ASCE; <b>Carlos M. Zuluaga, S.M.ASCE;</b> and Edward J. Jaselskis, A.M.ASCE. <i>Journal of Construction Engineering and Management</i>, 2016.
+- [Improving Hazard-Recognition Performance and Safety Training Outcomes: Integrating Strategies for Training Transfer.](http://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001160){:target="_blank"} Mostafa Namian, S.M.ASCE; Alex Albert, A.M.ASCE; <b>Carlos M. Zuluaga, S.M.ASCE;</b> and Edward J. Jaselskis, A.M.ASCE. <i>Journal of Construction Engineering and Management</i>, 2016.
 
 - [Role of Safety Training: Impact on Hazard Recognition and Safety Risk Perception.](http://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001198) Mostafa Namian, S.M.ASCE; Alex Albert, A.M.ASCE; <b>Carlos M. Zuluaga, S.M.ASCE;</b> and Michael Behm. <i>Journal of Construction Engineering and Management</i>, 2016.
 
