@@ -15,21 +15,25 @@ permalink: /aboutme/
 <p style="padding-left: 30px;">The objective of this study is to determine the compatibility between Fall Protection Supplementary Devices (FPSD) and the numerous bridge guardrail designs accross the state of North Carolina with the end goal of improving work efficiency, reducing loss of productivity, decreasing operational cost, and improving safety performance.</p>
 
 ## Industry Experience
-<strong>Tri-State Design Construction Co., Inc. - </strong><strong>December 2011 to December 2014</strong>
-<p style="padding-left: 30px;"><em><u>Project Engineer, Upgrade Medical Waste Incinerators. Frederick, MD</u>:</em> Design/Build project for the Installation of 2 Emission Control Units to the existing medical waste incinerators. Client: U.S. Army Corps of Engineers, Baltimore District.</p>
-<p style="padding-left: 30px;"><em><u>Junior Estimator, Houston Residence. Sag Harbor, NY</u>:</em> 5,000 SF luxury residential construction project.</p>
-<p style="padding-left: 30px;"><em><u>Project Manager, Installation of Kennel Fence. Clovis, NM</u>: </em>Installation of 720’ of 6’ high chain link fence, 2 vehicular access gates, 2 pedestrian access gates and a 24’ x 12’ concrete pad. Client: U.S. Air Force.</p>
-<p style="padding-left: 30px;"><em><u>Field Engineer,</u></em><u> <em>Design/Build Replace Primary Electric Cables. Brooklyn, NY:</em></u> Installation of 11,000’ of concrete encased ductbank, pulling 200,000’ of 4/0 XLP copper cable and installation of numerous electrical terminations. Client: National Park Service.</p>
-<p style="padding-left: 30px;"><em><u>Office Engineer, Seawall Repairs. Philadelphia Navy Shipyard, PA:</u></em> 600’ of concrete repairs and 800’ of stone masonry repairs to the existing seawall. Installation of 2500’ of vinyl sheet piles. Client: U.S. Army Corps of Engineers, Philadelphia District.</p>
+<strong>Tri-State Design Construction Co., Inc. | <strong>2011 – 2014</strong>
+<p style="padding-left: 30px;"><em><u>Project Engineer:</u></em> Design/Build project for the installation of 2 emission control units to existing medical waste incinerators.</p>
+<p style="padding-left: 30px;"><em><u>Junior Estimator:</u></em> 5,000 SF luxury residential construction project in Sag Harbor, NY.</p>
+<p style="padding-left: 30px;"><em><u>Project Manager:</u></em> Installation of 720’ of 6’ high chain link fence, 2 vehicular access gates, 2 pedestrian access gates and a 24’ x 12’ concrete pad.</p>
+<p style="padding-left: 30px;"><em><u>Field Engineer:</u></em> Installation of 11,000’ of concrete encased ductbank, pulling 200,000’ of 4/0 XLP copper cable and installation of numerous electrical terminations.</p>
+<p style="padding-left: 30px;"><em><u>Office Engineer:</u></em> 600’ of concrete repairs and 800’ of stone masonry repairs to existing seawall. Installation of 2500’ of vinyl sheet piles.</p>
 
 ## Certifications and Affiliations
 <ul>
  	<li><strong>American Society of Civil Engineers (ASCE):</strong> Student member.</li>
- 	<li><strong>Associated General Contractors (AGC):</strong> Student chapter member.</li>
- 	<li><strong>Latin American Student Association at NC State:</strong> Secretary (current), President (2015-2016).</li>
+ 	<li><strong>Associated General Contractors (AGC):</strong> Student member.</li>
  	<li>CPR and First Aid.</li>
  	<li>Confined Space Competent Person.</li>
 </ul>
+
+## Volunteering
+- <strong>President (2017-2018):</strong> AGC / NAHB / CMAA Student Chapter
+- <strong>Advisor (2016-2017):</strong> Latin American Student Association at NC State
+- <strong>President (2015-2016):</strong> Latin American Student Association at NC State
 
 ## Skills
 <table class=" alignleft" style="height: 220px;" width="550">
