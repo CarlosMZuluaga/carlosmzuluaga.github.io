@@ -4,6 +4,8 @@ layout: single
 date: 2017-04-27
 ---
 
-Today I have decided to migrate my website from the Wordpress site offered by NCSU. Although it was a to set up this GitHub including the [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) theme, I believe it offers more felixbility than Wordpress and will allow me to keep running my site after graduating. 
+Today I have decided to migrate my website from the Wordpress site offered by NCSU. I have used as a template for this GitHub page the [Jekyll minimal-mistakes theme][minimal-mistakes].  
 
-Thanks for visiting and look forward for postings future postings. 
+Thanks for visiting and look forward for future postings. 
+
+[minimal-mistakes]: https://github.com/mmistakes/minimal-mistakes
