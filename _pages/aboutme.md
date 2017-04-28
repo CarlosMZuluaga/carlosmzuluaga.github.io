@@ -6,13 +6,13 @@ permalink: /aboutme/
 ---
 
 ## Education
-- <strong>Ph.D. in Civil Engineering</strong> – North Carolina State University – Expected graduation Fall 2018
-- <strong>Master of Civil Engineering</strong> – North Carolina State University. Raleigh, NC – 2016
-- <strong>B.S. in Civil Engineering</strong> – EAFIT University. Medellín, Colombia – 2011
+<p style="padding-left: 30px;"><strong>Ph.D. in Civil Engineering</strong> – North Carolina State University – Expected graduation Fall 2018 </p>
+<p style="padding-left: 30px;"><strong>Master of Civil Engineering</strong> – North Carolina State University. Raleigh, NC – 2016</p>
+<p style="padding-left: 30px;"><strong>B.S. in Civil Engineering</strong> – EAFIT University. Medellín, Colombia – 2011</p>
 
 ## Research Experience
-<strong>Compatibility Testing of Supplemental Fall Protection Devices on NCDOT Bridges</strong>
-<p style="padding-left: 30px;">The objective of this study is to determine the compatibility between Fall Protection Supplementary Devices (FPSD) and the numerous bridge guardrail designs accross the state of North Carolina with the end goal of improving work efficiency, reducing loss of productivity, decreasing operational cost, and improving safety performance.</p>
+### Compatibility Testing of Supplemental Fall Protection Devices on NCDOT Bridges
+<p style="padding-left: 30px;">The objective of this study was to determine the compatibility between Fall Protection Supplementary Devices (FPSD) and the numerous bridge guardrail designs accross the state of North Carolina. The end goal was to provide decision-support for improving work efficiency, reducing loss of productivity, decreasing operational cost, and improving safety performance of bridge maintenance work.</p>
 
 ## Industry Experience
 <strong>Tri-State Design Construction Co., Inc. | <strong>2011 – 2014</strong>
