@@ -16,11 +16,11 @@ permalink: /aboutme/
 
 ## Industry Experience
 <strong>Tri-State Design Construction Co., Inc. | <strong>2011 – 2014</strong>
-<p style="padding-left: 30px;"><em><u>Project Engineer:</u></em> Design/Build project for the installation of 2 emission control units to existing medical waste incinerators.</p>
-<p style="padding-left: 30px;"><em><u>Junior Estimator:</u></em> 5,000 SF luxury residential construction project in Sag Harbor, NY.</p>
-<p style="padding-left: 30px;"><em><u>Project Manager:</u></em> Installation of 720’ of 6’ high chain link fence, 2 vehicular access gates, 2 pedestrian access gates and a 24’ x 12’ concrete pad.</p>
-<p style="padding-left: 30px;"><em><u>Field Engineer:</u></em> Installation of 11,000’ of concrete encased ductbank, pulling 200,000’ of 4/0 XLP copper cable and installation of numerous electrical terminations.</p>
-<p style="padding-left: 30px;"><em><u>Office Engineer:</u></em> 600’ of concrete repairs and 800’ of stone masonry repairs to existing seawall. Installation of 2500’ of vinyl sheet piles.</p>
+<p style="padding-left: 30px;"><strong>Project Engineer:</strong> Design/Build project for the installation of 2 emission control units to existing medical waste incinerators.</p>
+<p style="padding-left: 30px;"><strong>Junior Estimator:</strong> 5,000 SF luxury residential construction project in Sag Harbor, NY.</p>
+<p style="padding-left: 30px;"><strong>Project Manager:</strong> Installation of 720’ of 6’ high chain link fence, 2 vehicular access gates, 2 pedestrian access gates and a 24’ x 12’ concrete pad.</p>
+<p style="padding-left: 30px;"><strong>Project Engineer:</strong> Installation of 11,000’ of concrete encased ductbank, pulling 200,000’ of 4/0 XLP copper cable and installation of numerous electrical terminations.</p>
+<p style="padding-left: 30px;"><strong>Project Engineer:</strong> 600’ of concrete repairs and 800’ of stone masonry repairs to existing seawall. Installation of 2500’ of vinyl sheet piles.</p>
 
 ## Certifications and Affiliations
 <ul>
