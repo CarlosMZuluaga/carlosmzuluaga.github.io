@@ -4,11 +4,13 @@ author_profile: true
 title: About Me
 permalink: /aboutme/
 ---
-
+<hr>
 # Education
 <p style="padding-left: 30px;"><strong>Ph.D. in Civil Engineering</strong> – North Carolina State University – Expected graduation Fall 2018 </p>
 <p style="padding-left: 30px;"><strong>Master of Civil Engineering</strong> – North Carolina State University. Raleigh, NC – 2016</p>
 <p style="padding-left: 30px;"><strong>B.S. in Civil Engineering</strong> – EAFIT University. Medellín, Colombia – 2011</p>
+
+<hr>
 
 # Research Experience
 ### Compatibility Testing of Supplemental Fall Protection Devices on NCDOT Bridges
