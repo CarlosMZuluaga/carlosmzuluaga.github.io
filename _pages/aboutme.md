@@ -16,13 +16,17 @@ permalink: /aboutme/
 ### Compatibility Testing of Supplemental Fall Protection Devices on NCDOT Bridges
 <p style="padding-left: 30px;">The objective of this study was to determine the compatibility between Fall Protection Supplementary Devices (FPSD) and the numerous bridge guardrail designs accross the state of North Carolina. The end goal was to provide decision-support for improving work efficiency, reducing loss of productivity, decreasing operational cost, and improving safety performance of bridge maintenance work.</p>
 
+<hr>
+
 # Industry Experience
-### Tri-State Design Construction Co., Inc. | 2011 – 2014
+<strong>Tri-State Design Construction Co., Inc. | 2011 – 2014</strong>
 - <strong>Project Engineer:</strong> Design/Build project for the installation of 2 emission control units to existing medical waste incinerators.
 - <strong>Junior Estimator:</strong> 5,000 SF luxury residential construction project in Sag Harbor, NY.
 - <strong>Project Manager:</strong> Installation of 720’ of 6’ high chain link fence, 2 vehicular access gates, 2 pedestrian access gates and a 24’ x 12’ concrete pad.
 - <strong>Project Engineer:</strong> Installation of 11,000’ of concrete encased ductbank, pulling 200,000’ of 4/0 XLP copper cable and installation of numerous electrical terminations.
 - <strong>Project Engineer:</strong> 600’ of concrete repairs and 800’ of stone masonry repairs to existing seawall. Installation of 2500’ of vinyl sheet piles.
+
+<hr>
 
 # Certifications and Affiliations
 - <strong>American Society of Civil Engineers (ASCE):</strong> Student member.
@@ -30,10 +34,14 @@ permalink: /aboutme/
 - CPR and first aid.
 - Confined space competent person.
 
+<hr>
+
 # Volunteering
 - <strong>President (2017-2018):</strong> AGC / NAHB / CMAA Student Chapter
 - <strong>Advisor (2016-2017):</strong> Latin American Student Association at NC State
 - <strong>President (2015-2016):</strong> Latin American Student Association at NC State
+
+<hr>
 
 # Skills
 <table class=" alignleft" style="height: 220px;" width="550">
