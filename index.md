@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 header:
   overlay_image: /assets/images/Antelope.jpg
+  overlay_filter: 0.5
   caption: "Antelope Canyon, AZ"
 ---
 Welcome to my website.
