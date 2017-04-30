@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my blog"
-layout: single
+layout: blogpost
 date: 2017-04-27
 comments: true
 ---
