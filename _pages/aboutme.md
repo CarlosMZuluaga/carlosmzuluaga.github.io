@@ -22,6 +22,9 @@ permalink: /aboutme/
 - <strong>Project Engineer:</strong> Installation of 11,000’ of concrete encased ductbank, pulling 200,000’ of 4/0 XLP copper cable and installation of numerous electrical terminations.
 - <strong>Project Engineer:</strong> 600’ of concrete repairs and 800’ of stone masonry repairs to existing seawall. Installation of 2500’ of vinyl sheet piles.
 
+## Honors and Awards
+- Provost Doctoral Recruitment Fellowship. North Carolina State University | 2015
+
 ## Certifications and Affiliations
 - <strong>American Society of Civil Engineers (ASCE):</strong> Student member.
 - <strong>Associated General Contractors (AGC):</strong> Student member.
