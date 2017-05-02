@@ -23,7 +23,7 @@ permalink: /aboutme/
 - <strong>Project Engineer:</strong> 600’ of concrete repairs and 800’ of stone masonry repairs to existing seawall. Installation of 2500’ of vinyl sheet piles.
 
 ## Honors and Awards
-- <strong>Provost Doctoral Recruitment Fellowship.</strong> North Carolina State University | 2015
+- <strong>Provost Doctoral Recruitment Fellowship.</strong> North Carolina State University. | 2015.
 
 ## Certifications and Affiliations
 - <strong>American Society of Civil Engineers (ASCE):</strong> Student member.
