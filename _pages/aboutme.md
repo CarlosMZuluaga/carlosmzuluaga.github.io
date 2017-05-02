@@ -25,6 +25,12 @@ permalink: /aboutme/
 ## Honors and Awards
 - <p><strong>Provost Doctoral Recruitment Fellowship.</strong> North Carolina State University | 2015.</p>
 
+## Research Interests
+- Multi-dimensional modeling, virtual prototyping, virtual reality, and augmented reality applied to construction safety and management. 
+- Andragogical approaches for training engagement.
+- Multi-criteria decision-making methods.
+- Lean construction.
+
 ## Certifications and Affiliations
 - <strong>American Society of Civil Engineers (ASCE):</strong> Student member.
 - <strong>Associated General Contractors (AGC):</strong> Student member.
