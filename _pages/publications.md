@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 ## Scientific Journal Articles 
 
-- [Preventing Falls: Choosing Compatible Fall Protection Supplementary Devices (FPSD) for Bridge Maintenance Work using Virtual Prototyping.] (https://doi.org/10.1016/j.ssci.2017.08.006) <b>Carlos M. Zuluaga, S.M.ASCE;</b> and Alex Albert, A.M.ASCE.
+- [Preventing Falls: Choosing Compatible Fall Protection Supplementary Devices (FPSD) for Bridge Maintenance Work using Virtual Prototyping.](https://doi.org/10.1016/j.ssci.2017.08.006) <b>Carlos M. Zuluaga, S.M.ASCE;</b> and Alex Albert, A.M.ASCE.
 <i>Safety Science, 2017</i>. Article in press.
 
 - [Improving Hazard-Recognition Performance and Safety Training Outcomes: Integrating Strategies for Training Transfer.](http://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001160) Mostafa Namian, S.M.ASCE; Alex Albert, A.M.ASCE; <b>Carlos M. Zuluaga, S.M.ASCE;</b> and Edward J. Jaselskis, A.M.ASCE. <i>Journal of Construction Engineering and Management, 2016</i>.
