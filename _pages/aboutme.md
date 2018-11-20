@@ -6,13 +6,17 @@ permalink: /aboutme/
 ---
 
 ## Education
-<p style="padding-left: 30px;"><strong>Ph.D. in Civil Engineering</strong> | North Carolina State University. Raleigh, NC | Expected graduation: Fall 2018 </p>
-<p style="padding-left: 30px;"><strong>Master of Civil Engineering</strong> | North Carolina State University. Raleigh, NC | 2016</p>
-<p style="padding-left: 30px;"><strong>B.S. in Civil Engineering</strong> | EAFIT University. Medellín, Colombia | 2011</p>
+<p style="padding-left: 30px;"><strong>Ph.D. in Civil Engineering</strong> | North Carolina State University. Raleigh, NC | 2018. </p>
+<p style="padding-left: 30px;"><strong>Master of Civil Engineering</strong> | North Carolina State University. Raleigh, NC | 2016.</p>
+<p style="padding-left: 30px;"><strong>B.S. in Civil Engineering</strong> | EAFIT University. Medellín, Colombia | 2011.</p>
 
-## Research Experience
-<strong>Compatibility Testing of Supplemental Fall Protection Devices on NCDOT Bridges</strong>
-<p style="padding-left: 30px;">The objective of this study was to determine the compatibility between Fall Protection Supplementary Devices (FPSD) and the numerous bridge guardrail designs accross the state of North Carolina. The end goal was to provide decision-support for improving work efficiency, reducing loss of productivity, decreasing operational cost, and improving safety performance of bridge maintenance work.</p>
+## Areas of Expertize
+- Application of wearables and wireless sensors for construction safety. 
+- Multi-dimensional modeling, virtual prototyping, virtual reality, and augmented reality applied to construction safety and management. 
+- Andragogical approaches for training engagement.
+- Choosing by Advantages (CBA).
+- Lean construction.
+- 3D Printing. 
 
 ## Industry Experience
 <strong>Tri-State Design Construction Co., Inc. | 2011 – 2014</strong>
@@ -25,20 +29,20 @@ permalink: /aboutme/
 ## Honors and Awards
 - <p><strong>Provost Doctoral Recruitment Fellowship.</strong> North Carolina State University | 2015.</p>
 
-## Research Interests
-- Multi-dimensional modeling, virtual prototyping, virtual reality, and augmented reality applied to construction safety and management. 
-- Andragogical approaches for training engagement.
-- Multi-criteria decision-making methods.
-- Lean construction.
+## Certifications and Training
+- Engineer in Training (EIT).
+- OSHA 30-Hour Construction Training.
+- Construction Manager in Training (CMIT).
+- First Aid, CPR & AED Certified. 
 
-## Certifications and Affiliations
-- <strong>American Society of Civil Engineers (ASCE):</strong> Student member.
-- <strong>Associated General Contractors (AGC):</strong> Student member.
-- CPR and first aid.
-- Confined space competent person.
+## Affiliations
+- American Society of Civil Engineers (ASCE).
+- Construction Management Associated of America (CMAA).
+- National Safety Council (NSC). 
 
 ## Volunteering
-- <strong>President (2017-2018):</strong> AGC / NAHB / CMAA Student Chapter
+- <strong>Advisor (2018):</strong> AGC / NAHB / CMAA Student Chapter at NC State
+- <strong>President (2017-2018):</strong> AGC / NAHB / CMAA Student Chapter at NC State
 - <strong>Advisor (2016-2017):</strong> Latin American Student Association at NC State
 - <strong>President (2015-2016):</strong> Latin American Student Association at NC State
 
@@ -55,7 +59,7 @@ permalink: /aboutme/
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Scheduling:</strong></td>
-<td style="text-align: left;"> MS Project, Primavera SureTrak</td>
+<td style="text-align: left;"> MS Project, Primavera SureTrak, Phoenix</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Documents:</strong></td>
@@ -63,7 +67,7 @@ permalink: /aboutme/
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Programming:</strong></td>
-<td style="text-align: left;"> VBA, Matlab, R</td>
+<td style="text-align: left;"> VBA, Matlab, R, Python</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;"><strong>Visual Design:</strong></td>
