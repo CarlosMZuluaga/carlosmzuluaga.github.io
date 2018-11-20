@@ -6,10 +6,8 @@ header:
   overlay_filter: 0.5
   caption: "Antelope Canyon, AZ"
 ---
-Welcome to my website.
+Hi, my name is Carlos Zuluaga. I am a passionate and curious Civil Engineer. My interests are split between management, safety, leadership, and technology applied to construction. 
 
-I am a Civil Engineering Ph.D. Student in the department of Civil, Construction, and Environmental Engineering at North Carolina State University. I currently perform research in the area of construction safety under the direction of [Dr. Alex Albert](https://www.ccee.ncsu.edu/people/alex_albert/).
+During my doctoral studies in the [Department of Civil, Construction, and Environmental Engineering at North Carolina State University](https://www.ccee.ncsu.edu/), my research focused on improving the overall safety, efficiency, and productivity of bridge maintenance workers by applying innovative methods such as virtual prototyping and wearable technology.
 
-I invite you to visit the other tabs of this website to find more information about myself and topics of my interest. 
-
-Go Pack!
+When not at my office, you're likely to find me out in the woods mountain biking, climbing, or hiking.
