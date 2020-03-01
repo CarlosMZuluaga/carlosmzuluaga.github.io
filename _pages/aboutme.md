@@ -19,6 +19,10 @@ permalink: /aboutme/
 - 3D Printing. 
 
 ## Industry Experience
+<strong>Harkins Builders, Inc. | 2019 – current</strong>
+- <strong>Project Engineer:</strong> Brigthview Columbia. 191,000 square feet, 170 units, 5 story, senior living community in Columbia, MD.  
+- <strong>Project Engineer:</strong> Brightview Crofton. 169,000 square feet, 158 units, 4 story, senior living community in Crofton, MD.
+
 <strong>Tri-State Design Construction Co., Inc. | 2011 – 2014</strong>
 - <strong>Project Engineer:</strong> Design/Build project for the installation of 2 emission control units to existing medical waste incinerators.
 - <strong>Junior Estimator:</strong> 5,000 SF luxury residential construction project in Sag Harbor, NY.
@@ -34,6 +38,7 @@ permalink: /aboutme/
 - OSHA 30-Hour Construction Training.
 - Construction Manager in Training (CMIT).
 - First Aid, CPR & AED Certified. 
+- FAA Part 107 Certified UAS Operator. 
 
 ## Affiliations
 - American Society of Civil Engineers (ASCE).
