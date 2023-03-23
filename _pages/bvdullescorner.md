@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 title: About Me
-permalink: /aboutme/
+permalink: /bvdullescorner/
 ---
 
 ## BV Dulles Corner
